@@ -2,7 +2,7 @@
 **Members:** 
 - Morgan Vaughan
 - Tanya Garza Saenz
-- Rayshma Razi
+- Rayshma Ravi
 - Hasini Bobbala
 
 **Project:** RemindMe
